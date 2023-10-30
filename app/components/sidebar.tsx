@@ -151,7 +151,7 @@ export function SideBar(props: { className?: string }) {
           由 阿豹 提供key服务.
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          仅支持3.5/3.5-16k和4.0/4.0-32k.
+          仅支持3.5系列,4.0的api费用过于昂贵.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
